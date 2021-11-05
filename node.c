@@ -52,7 +52,7 @@ void remove_data(int data) {
    int pos = 0;
    
    if(head==NULL) {
-      printf("Linked List not initialized");
+      printf("Listas ligadas no inicializadas");
       return;
    } 
     
